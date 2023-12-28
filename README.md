@@ -1,4 +1,4 @@
-![Head](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxvyxp4Yw-I-wIVn-XOfmpvzz1rll_zQl3pg&usqp=CAU)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxvyxp4Yw-I-wIVn-XOfmpvzz1rll_zQl3pg&usqp=CAU)
 
 Hi there👋, 
 I'm Rohit, a results-oriented mechanical engineer specializing in design (CAD), finite element analysis (FEA), and computer-aided engineering (CAE). 
