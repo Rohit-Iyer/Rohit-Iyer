@@ -1,4 +1,4 @@
-![MasterHead](https://c8.alamy.com/comp/2R9XWT6/transport-transportation-railway-locomotives-steam-locomotive-technics-steerage-working-drawing-artists-copyright-has-not-to-be-cleared-2R9XWT6.jpg)
+![MasterHead](https://www.drawingskill.com/wp-content/uploads/1/Mechanical-Engineering-Drawing-Art.jpg)
 
 Hi there👋, 
 I'm Rohit, a results-oriented mechanical engineer specializing in design (CAD), finite element analysis (FEA), and computer-aided engineering (CAE). 
