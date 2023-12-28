@@ -17,6 +17,6 @@ I'm Rohit, a results-oriented mechanical engineer specializing in design (CAD), 
 
 💬 Feel free to reach out to me about any questions or queries you may have about my work.
 
-📫 You can reach me through my email - riyer9@asu.edu or through my LinkdeIn [https://www.linkedin.com/in/rohit-iyer-1ba693145/]
+📫 You can reach me through my email - riyer9@asu.edu or through my [LinkdeIn](https://www.linkedin.com/in/rohit-iyer-1ba693145/). 
 
 Thanks and hope you enjoy getting to know a little about me. Have a great day!
