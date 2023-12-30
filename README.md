@@ -19,7 +19,7 @@ I'm Rohit, a results-oriented mechanical engineer specializing in design (CAD), 
 
 💬 Feel free to reach out to me about any questions or queries you may have about my work.
 
-You can find more details about my work in my [portfolio](https://github.com/Rohit-Iyer/Portfolio/blob/main/Engineering%20Projects%20Portfolio%20-%20Rohit%20Venkataraman%20Iyer.pdf)
+:link: You can find more details about my work in my [portfolio](https://github.com/Rohit-Iyer/Portfolio/blob/main/Engineering%20Projects%20Portfolio%20-%20Rohit%20Venkataraman%20Iyer.pdf)
 
 📫 You can reach me through my email - riyer9@asu.edu or through my [LinkdeIn](https://www.linkedin.com/in/rohit-iyer-1ba693145/). 
 
