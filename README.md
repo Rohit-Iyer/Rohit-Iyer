@@ -24,3 +24,4 @@ You can find more details about my work in my [portfolio](https://github.com/Roh
 📫 You can reach me through my email - riyer9@asu.edu or through my [LinkdeIn](https://www.linkedin.com/in/rohit-iyer-1ba693145/). 
 
 Thanks and hope you enjoy getting to know a little about me. Have a great day!
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRohit-Iyer&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
